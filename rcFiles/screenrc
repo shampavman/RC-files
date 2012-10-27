@@ -1,0 +1,9 @@
+#Give 100000 lines of scrollback
+scrollback 100000
+
+#Don't annoy me with the startup message for screen.
+startup_message off
+
+#Setup the statusbar
+hardstatus alwayslastline
+hardstatus string '%{= kG}%-Lw%{= kW}%50> %n*%f %t%{= kG}%+Lw%< %{= kG}%-=%D %m/%d/%y | %C:%s %A | %1`%{-}'

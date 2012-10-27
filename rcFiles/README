@@ -1,0 +1,9 @@
+This directory contains some of the .rc files that
+I use on a regular basis.
+If anyone wants to use them please put it in your
+home directory.
+
+Eg::
+$mv vimrc ~/.vimrc
+
+NOTE:: '.' is important
